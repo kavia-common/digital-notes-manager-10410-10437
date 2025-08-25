@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/digital-notes-manager-10410-10437/notes_app_frontend"
+}
